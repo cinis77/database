@@ -1,0 +1,8 @@
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\bin\Debug\Studentu_duombaze.exe.config
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\bin\Debug\Studentu_duombaze.mdf
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\bin\Debug\Studentu_duombaze_log.ldf
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\bin\Debug\Studentu_duombaze.exe
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\bin\Debug\Studentu_duombaze.pdb
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\obj\Debug\Studentu_duombaze.csprojResolveAssemblyReference.cache
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\obj\Debug\Studentu_duombaze.exe
+c:\users\drentelis\documents\visual studio 2015\Projects\Studentu_duombaze\Studentu_duombaze\obj\Debug\Studentu_duombaze.pdb
